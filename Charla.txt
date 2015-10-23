@@ -1,0 +1,58 @@
+14:10
+
+5       Que es un shader?
+5       Unity Built-in Shaders
+10     Fixed Color (Representación de color. POSITION y SV_POSITION)
+10     Texture (cuadrada)
+5      UV, Unity Time
+10     Ejercicio: Hacer un endless scroller.
+5      Resolución ejercicio
+5       Dudas?
+
+15:00
+
+10     Blending mode w/texture (Add, Screen, Multiply,) http://photoblogstop.com/photoshop/photoshop-blend-modes-explained
+5      Blending mode w/screen (Alpha Blending)
+10     Efectos Fullscreen
+10     Ejercicio: Vignetting, hacer un shader que haga un effecto de vignetting, o sea un area circular de la pantalla es visible.
+5       Resolución del ejercicio
+5       Preguntas?
+
+15:45
+
+20 [Intervalo]
+
+16:05
+
+
+[Arreglar ejercicio de vignetting sacar todo]
+10     Luz y sombra 2D
+5      Texturas procedurales: Sine
+5      Texturas procedurales: Smoothstep
+5      Texturas procedurales: LUT ( http://www.iquilezles.org/www/articles/deform/deform.htm )
+5      Texturas procedurales: RGB Offset
+5      Ejemplos ( Nubarron: WavyGrass, Fog, Waterfalls, 4Drop: Desfasaje, Fullscreen Effects )
+
+16:40
+
+20  Preguntas
+40  Sandbox
+15  Muestra de Sandbox
+5 Cierre
+
+18:00
+
+Para aprender más:
+    http://docs.unity3d.com/460/Documentation/Manual/SL-Reference.html
+    Iñigo Quillez: http://www.iquilezles.org/www/index.htm
+
+Libros:
+    Graphics Shaders: Theory and practice Second edition
+    http://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf (wow.)
+
+    Real-Time Rendering Third Edition
+    http://www.realtimerendering.com/
+
+Para divertirse un rato:
+    https://www.shadertoy.com/ (Proyecto de Iñigo Quillez!)
+
